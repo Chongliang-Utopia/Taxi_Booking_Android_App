@@ -1,4 +1,4 @@
-# Taxi_Booking_Web_App
+# Taxi_Booking_Android_App
 An android application for taxi booking.
 
 # Features
